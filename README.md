@@ -8,6 +8,7 @@
 - [如何提高多表查询效率][6]
 - [程序员的我之三年之惑][7]
 - [JPA 实体管理器使用小结][8]
+- [IOS版本APP STORE上架流程][9]
 
 [1]:https://github.com/kingv8/blog/issues/2
 [2]:https://github.com/kingv8/blog/issues/3
@@ -17,3 +18,4 @@
 [6]:https://github.com/kingv8/blog/issues/7
 [7]:https://github.com/kingv8/blog/issues/8
 [8]:https://github.com/kingv8/blog/issues/9
+[9]:https://github.com/kingv8/blog/issues/11
