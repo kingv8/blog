@@ -1,5 +1,6 @@
 ## 原创文章
 
+- [SpringMVC RequestMapping 动态多层路径写法][10]
 - [SSM框架下web项目的运行流程][1]
 - [JS金额校验][2]
 - [request entity too large 413 和 maxPostSize="0"][3]
@@ -19,3 +20,4 @@
 [7]:https://github.com/kingv8/blog/issues/8
 [8]:https://github.com/kingv8/blog/issues/9
 [9]:https://github.com/kingv8/blog/issues/11
+[10]:https://github.com/kingv8/blog/issues/12
