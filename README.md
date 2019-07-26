@@ -20,4 +20,4 @@
 [7]:https://github.com/kingv8/blog/issues/8
 [8]:https://github.com/kingv8/blog/issues/9
 [9]:https://github.com/kingv8/blog/issues/11
-[10]:https://github.com/kingv8/blog/issues/12
+[10]:https://github.com/kingv8/blog/issues/13
