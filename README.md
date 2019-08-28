@@ -1,5 +1,6 @@
 ## 原创文章
 
+- [Java持久化API常见错误][11]
 - [SpringMVC RequestMapping 动态多层路径写法][10]
 - [SSM框架下web项目的运行流程][1]
 - [JS金额校验][2]
@@ -21,3 +22,4 @@
 [8]:https://github.com/kingv8/blog/issues/9
 [9]:https://github.com/kingv8/blog/issues/11
 [10]:https://github.com/kingv8/blog/issues/13
+[11]:https://github.com/kingv8/blog/issues/14
