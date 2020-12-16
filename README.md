@@ -1,5 +1,6 @@
 ## 原创文章
 
+- [SpringBoot整合Shiro][14]
 - [系统允许自定义扩展字段][13]
 - [报表设计][12]
 - [Java持久化API常见错误][11]
@@ -28,3 +29,4 @@
 [11]:https://github.com/kingv8/blog/issues/15
 [12]:https://github.com/kingv8/blog/issues/16
 [13]:https://github.com/kingv8/blog/issues/17
+[14]:https://github.com/kingv8/blog/issues/19
